@@ -1,0 +1,34 @@
+{
+  "transactions": [
+    {
+      "name": "Freela",
+      "amount": 550,
+      "id": 1
+    },
+    {
+      "name": "Salário",
+      "amount": 2100,
+      "id": 3
+    },
+    {
+      "name": "Curso de inglês",
+      "amount": 310,
+      "id": 4
+    },
+    {
+      "name": "Financiamento de carro",
+      "amount": -800,
+      "id": 5
+    },
+    {
+      "name": "lanche",
+      "amount": -40,
+      "id": 6
+    },
+    {
+      "name": "nubank",
+      "amount": -1400,
+      "id": 7
+    }
+  ]
+}
